@@ -23,16 +23,13 @@ peer review, epistemic colonialism, coloniality of knowledge, fiduciary duties, 
 Correspondence regarding this work is welcome.
 
 Download this scholarly work as a PDF for sharing and citation:
-[PDF download](https://raw.githubusercontent.com/Peter-Kahl/Why-We-Must-Reject-the-Colonial-Peer-Review/master/_.pdf)
+[PDF download](https://raw.githubusercontent.com/Peter-Kahl/Why-We-Must-Reject-the-Colonial-Peer-Review/master/Kahl%20P%2C%20Why%20We%20Must%20Reject%20the%20Colonial%20Peer%20Review%20(5%20July%202025).pdf)
 
 Cite this work:
 
 ```
-Peter Kahl, ‘Why We Must Reject the Colonial Peer Review: Fiduciary-Epistemic Duties, Epistemic Agency, and Institutional Openness in the Age of Generative AI’ (GitHub, 2025) <https://raw.githubusercontent.com/Peter-Kahl/Why-We-Must-Reject-the-Colonial-Peer-Review/master/_.pdf>
+Peter Kahl, ‘Why We Must Reject the Colonial Peer Review: Fiduciary-Epistemic Duties, Epistemic Agency, and Institutional Openness in the Age of Generative AI’ (GitHub, 2025) <https://raw.githubusercontent.com/Peter-Kahl/Why-We-Must-Reject-the-Colonial-Peer-Review/master/Kahl%20P%2C%20Why%20We%20Must%20Reject%20the%20Colonial%20Peer%20Review%20(5%20July%202025).pdf>
 ```
 
 ### Licence
 Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)
-
-
-
