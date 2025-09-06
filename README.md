@@ -2,9 +2,9 @@
 
 #### Fiduciary-Epistemic Duties, Epistemic Agency, and Institutional Openness in the Age of Generative AI
 
-![alt text](https://github.com/Peter-Kahl/Why-We-Must-Reject-the-Colonial-Peer-Review/blob/main/peer-review-committee.jpg?raw=true)
-
 by Peter Kahl; published 5 July 2025
+
+![alt text](https://github.com/Peter-Kahl/Why-We-Must-Reject-the-Colonial-Peer-Review/blob/main/peer-review-committee.jpg?raw=true)
 
 ### Abstract
 
@@ -20,16 +20,20 @@ peer review, epistemic colonialism, coloniality of knowledge, fiduciary duties, 
 
 ---
 
-Correspondence regarding this work is welcome.
+### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
 
-Download this scholarly work as a PDF for sharing and citation:
-[PDF download](https://raw.githubusercontent.com/Peter-Kahl/Why-We-Must-Reject-the-Colonial-Peer-Review/master/Kahl%20P%2C%20Why%20We%20Must%20Reject%20the%20Colonial%20Peer%20Review%20(5%20July%202025).pdf)
+- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Why-We-Must-Reject-the-Colonial-Peer-Review/master/Kahl%20P%2C%20Why%20We%20Must%20Reject%20the%20Colonial%20Peer%20Review%20(5%20July%202025).pdf)
 
-Cite this work:
+### Cite this work:
 
 ```
-Peter Kahl, ‘Why We Must Reject the Colonial Peer Review: Fiduciary-Epistemic Duties, Epistemic Agency, and Institutional Openness in the Age of Generative AI’ (GitHub, 2025) <https://raw.githubusercontent.com/Peter-Kahl/Why-We-Must-Reject-the-Colonial-Peer-Review/master/Kahl%20P%2C%20Why%20We%20Must%20Reject%20the%20Colonial%20Peer%20Review%20(5%20July%202025).pdf>
+Kahl, Peter, Why We Must Reject the Colonial Peer Review: Fiduciary-Epistemic Duties, Epistemic Agency, and Institutional Openness in the Age of Generative AI (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Why-We-Must-Reject-the-Colonial-Peer-Review>
 ```
 
-### Licence
-Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)
+### Publisher & Licence
+
+First published in Great Britain by Peter Kahl 5 July 2025.
+
+© 2025 Lex et Ratio Ltd. Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+
+You are free to share — copy and redistribute the material in any medium or format — under the following terms: attribution required; non-commercial use only; no modifications permitted. Full licence text at <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
