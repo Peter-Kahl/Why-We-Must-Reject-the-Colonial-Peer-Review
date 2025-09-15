@@ -6,6 +6,8 @@
 
 by Peter Kahl, 5 July 2025; 2nd ed. 15 September 2025
 
+DOI: 10.13140/RG.2.2.12547.77607
+
 ![alt text](https://github.com/Peter-Kahl/Why-We-Must-Reject-the-Colonial-Peer-Review/blob/main/peer-review-committee.jpg?raw=true)
 
 ### Abstract
@@ -31,7 +33,7 @@ colonial peer review, epistemic justice, fiduciary governance, epistemocracy, te
 ### Cite this work
 
 ```
-Kahl, P. (2025). Why we must reject the colonial peer review: Fiduciary-epistemic duties, epistemic agency, and institutional openness in the age of generative AI (2nd ed.). Lex et Ratio Ltd. https://github.com/Peter-Kahl/Why-We-Must-Reject-the-Colonial-Peer-Review
+Kahl, P. (2025). Why we must reject the colonial peer review: Fiduciary-epistemic duties, epistemic agency, and institutional openness in the age of generative AI (2nd ed.). Lex et Ratio Ltd. https://doi.org/10.13140/rg.2.2.12547.77607
 ```
 
 ### Publisher & Licence
