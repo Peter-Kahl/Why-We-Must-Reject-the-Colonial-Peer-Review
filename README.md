@@ -25,6 +25,10 @@ The paper concludes that colonial peer review must be rejected outright. Only ep
 
 colonial peer review, epistemic justice, fiduciary governance, epistemocracy, testimonial injustice, hermeneutical injustice, multimodal epistemologies, cognitive diversity, academic freedom, AI governance, epistemic pluralism, institutional accountability, decolonial theory, critical pedagogy
 
+## Working Paper Status
+
+This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
+
 ## Download
 
 - [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Why-We-Must-Reject-the-Colonial-Peer-Review/master/Kahl_P_Why_We_Must_Reject_the_Colonial_Peer_Review_v2_2025-09-15.pdf)
@@ -33,10 +37,11 @@ colonial peer review, epistemic justice, fiduciary governance, epistemocracy, te
 
 Kahl, P. (2025). _Why we must reject the colonial peer review: Fiduciary-epistemic duties, epistemic agency, and institutional openness in the age of generative AI_ (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Why-We-Must-Reject-the-Colonial-Peer-Review DOI: https://doi.org/10.5281/zenodo.17293436
 
-### Publisher & Licence
+## Publisher & Licence
 
 First published in London by Peter Kahl, 5 July 2025.\
 v2 published in London by Lex et Ratio Ltd, 15 September 2025.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
-You may share this work for non-commercial purposes with attribution and without modification. Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/
+You may share this work for non-commercial purposes with attribution and without modification.\
+Licence available at https://creativecommons.org/licenses/by-nc-nd/4.0/ .
