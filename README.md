@@ -4,9 +4,9 @@
 
 _(A critical legal-philosophical analysis of colonial epistemic structures and the fiduciary governance of knowledge)_
 
-by Peter Kahl, 5 July 2025; v2: 2025-09-15
+by Peter Kahl, 2025-07-05; v2: 2025-09-15
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17293436.svg)](https://doi.org/10.5281/zenodo.17293436)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17293436.svg)](https://doi.org/10.5281/zenodo.17293436) [![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 
 ![alt text](https://github.com/Peter-Kahl/Why-We-Must-Reject-the-Colonial-Peer-Review/blob/main/peer-review-committee.jpg?raw=true)
@@ -39,8 +39,8 @@ Kahl, P. (2025). _Why we must reject the colonial peer review: Fiduciary-epistem
 
 ## Publisher & Licence
 
-First published in London by Peter Kahl, 5 July 2025.\
-v2 published in London by Lex et Ratio Ltd, 15 September 2025.
+First published in London by Peter Kahl, 2025-07-05.\
+v2 published in London by Lex et Ratio Ltd, 2025-09-15.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
